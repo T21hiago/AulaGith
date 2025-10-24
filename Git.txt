@@ -1,4 +1,5 @@
 Início da Aula de Git 1 - (dia 17/10/2025)
 Continuação da Aula de Git
 Diniz Viado 1
-Aula lozano
+Aula Lozano
+Ronaldo Arduino
